@@ -1,0 +1,34 @@
+__pycache__
+arabert_checkpoints
+araelectra_checkpoints
+checkpoints_electra
+checkpoints_roberta
+
+Models
+pickles
+Visualization
+
+Front-end\templates
+Front-end\arabic_passive_aggressive_pipeline.pkl
+Front-end\cnn_model.pkl
+Front-end\essay_passive_aggressive_pipeline.pkl
+Front-end\sentences_passive_aggressive_pipeline.pkl
+
+ArabicDialects_An_Efficient_Framework_for_Arabic_D.pdf
+balanced_processed_merged_dataset.csv
+concept diagram.drawio
+
+
+
+NLP_Project_(AI_vs_Human_Text_Detection)_(First_Test).ipynb
+NLP_Project_(AI_vs_Human_Text_Detection)_(Second_Test).ipynb
+
+optimized_merged_dataset.csv
+original_merged_dataset.csv
+Preprocessing Steps.pptx
+processed_merged_dataset.csv
+Proposed Methodology.drawio
+Team DS04 Youssef Mohamed.zip
+Team_DS04_Youssef_Mohamed.pdf
+training.ipynb
+TransformersTraining.py
