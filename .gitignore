@@ -8,11 +8,11 @@ Models
 pickles
 Visualization
 
-Front-end\templates
-Front-end\arabic_passive_aggressive_pipeline.pkl
-Front-end\cnn_model.pkl
-Front-end\essay_passive_aggressive_pipeline.pkl
-Front-end\sentences_passive_aggressive_pipeline.pkl
+Front-end/templates
+Front-end/arabic_passive_aggressive_pipeline.pkl
+Front-end/cnn_model.pkl
+Front-end/essay_passive_aggressive_pipeline.pkl
+Front-end/sentences_passive_aggressive_pipeline.pkl
 
 ArabicDialects_An_Efficient_Framework_for_Arabic_D.pdf
 balanced_processed_merged_dataset.csv
